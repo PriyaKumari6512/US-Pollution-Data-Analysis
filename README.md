@@ -103,7 +103,7 @@ The Power BI dashboard consists of **five pages** with interactive visuals:
 ## 🚀 How to Use
 1. **Clone the Repository**
    ```sh
-   git clone https://github.com/Sangeeta28-r/US-Pollution-Data-Analysis.git
+   git clone https://github.com/https:PriyaKumari6512/US-Pollution-Data-Analysis
    ```
 2. **Open Power BI Desktop** and load the `.pbix` file.
 3. **Explore Interactive Insights** using slicers and filters.
@@ -126,5 +126,5 @@ This Power BI dashboard provides **detailed insights into air pollution levels**
 📢 **Contributions & Feedback**: Feel free to **raise issues**, **suggest enhancements**, or **contribute** to this project! 🚀
 
 ---
-🔗 **GitHub Repository**: [US Pollution Data Analysis](https://github.com/Sangeeta28-r/US-Pollution-Data-Analysis)
+🔗 **GitHub Repository**: [US Pollution Data Analysis](https://github.com/PriyaKumari6512/US-Pollution-Data-Analysis)
 
